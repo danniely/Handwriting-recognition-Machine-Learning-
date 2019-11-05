@@ -1,0 +1,11 @@
+/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/CMakeFiles/naivebayes.dir
+/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/libbayes/CMakeFiles/rebuild_cache.dir
+/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/libbayes/CMakeFiles/edit_cache.dir
+/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/libbayes/src/CMakeFiles/rebuild_cache.dir
+/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/libbayes/src/CMakeFiles/edit_cache.dir
+/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/libbayes/src/CMakeFiles/libbayes.dir
+/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/libbayes/test/CMakeFiles/rebuild_cache.dir
+/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/libbayes/test/CMakeFiles/edit_cache.dir
+/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/libbayes/test/CMakeFiles/libbayes-tests.dir

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="NaiveBayes"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\libbayes\;CMake Files\libbayes\src\;CMake Files\libbayes\test\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="naivebayes">
+				<Option output="/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/naivebayes" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/user/Desktop/UIUC/naive-numbers-danniely/."/>
+					<Add directory="/Users/user/Desktop/UIUC/naive-numbers-danniely/libbayes/src/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/Makefile&quot;  VERBOSE=1 naivebayes"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="naivebayes/fast">
+				<Option output="/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/naivebayes" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/user/Desktop/UIUC/naive-numbers-danniely/."/>
+					<Add directory="/Users/user/Desktop/UIUC/naive-numbers-danniely/libbayes/src/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/Makefile&quot;  VERBOSE=1 naivebayes/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="libbayes">
+				<Option output="/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/libbayes/src/liblibbayes.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/libbayes/src"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/user/Desktop/UIUC/naive-numbers-danniely/libbayes/src/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/libbayes/src/Makefile&quot;  VERBOSE=1 libbayes"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/libbayes/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/libbayes/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/libbayes/src/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="libbayes/fast">
+				<Option output="/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/libbayes/src/liblibbayes.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/libbayes/src"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/user/Desktop/UIUC/naive-numbers-danniely/libbayes/src/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/libbayes/src/Makefile&quot;  VERBOSE=1 libbayes/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/libbayes/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/libbayes/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/libbayes/src/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="libbayes-tests">
+				<Option output="/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/libbayes/test/libbayes-tests" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/libbayes/test"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/user/Desktop/UIUC/naive-numbers-danniely/libbayes/test/."/>
+					<Add directory="/Users/user/Desktop/UIUC/naive-numbers-danniely/libbayes/src/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/libbayes/test/Makefile&quot;  VERBOSE=1 libbayes-tests"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/libbayes/test/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/libbayes/test/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/libbayes/test/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="libbayes-tests/fast">
+				<Option output="/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/libbayes/test/libbayes-tests" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/libbayes/test"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/user/Desktop/UIUC/naive-numbers-danniely/libbayes/test/."/>
+					<Add directory="/Users/user/Desktop/UIUC/naive-numbers-danniely/libbayes/src/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/libbayes/test/Makefile&quot;  VERBOSE=1 libbayes-tests/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/libbayes/test/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/libbayes/test/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/user/Desktop/UIUC/naive-numbers-danniely/cmake-build-debug/libbayes/test/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/user/Desktop/UIUC/naive-numbers-danniely/libbayes/src/image.cpp">
+			<Option target="libbayes"/>
+		</Unit>
+		<Unit filename="/Users/user/Desktop/UIUC/naive-numbers-danniely/libbayes/src/image.hpp">
+			<Option target="libbayes"/>
+		</Unit>
+		<Unit filename="/Users/user/Desktop/UIUC/naive-numbers-danniely/libbayes/src/model.cpp">
+			<Option target="naivebayes"/>
+			<Option target="libbayes"/>
+		</Unit>
+		<Unit filename="/Users/user/Desktop/UIUC/naive-numbers-danniely/libbayes/src/model.hpp">
+			<Option target="libbayes"/>
+		</Unit>
+		<Unit filename="/Users/user/Desktop/UIUC/naive-numbers-danniely/libbayes/src/validation.cpp">
+			<Option target="naivebayes"/>
+			<Option target="libbayes"/>
+		</Unit>
+		<Unit filename="/Users/user/Desktop/UIUC/naive-numbers-danniely/libbayes/src/validation.h">
+			<Option target="naivebayes"/>
+			<Option target="libbayes"/>
+		</Unit>
+		<Unit filename="/Users/user/Desktop/UIUC/naive-numbers-danniely/libbayes/test/main.cpp">
+			<Option target="libbayes-tests"/>
+		</Unit>
+		<Unit filename="/Users/user/Desktop/UIUC/naive-numbers-danniely/libbayes/test/test_naiveBayes.cpp">
+			<Option target="libbayes-tests"/>
+		</Unit>
+		<Unit filename="/Users/user/Desktop/UIUC/naive-numbers-danniely/main.cpp">
+			<Option target="naivebayes"/>
+		</Unit>
+		<Unit filename="/Users/user/Desktop/UIUC/naive-numbers-danniely/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/user/Desktop/UIUC/naive-numbers-danniely/libbayes/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\libbayes\"/>
+		</Unit>
+		<Unit filename="/Users/user/Desktop/UIUC/naive-numbers-danniely/libbayes/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\libbayes\src\"/>
+		</Unit>
+		<Unit filename="/Users/user/Desktop/UIUC/naive-numbers-danniely/libbayes/test/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\libbayes\test\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

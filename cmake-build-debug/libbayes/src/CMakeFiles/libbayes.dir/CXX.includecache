@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/user/Desktop/UIUC/naive-numbers-danniely/libbayes/src/image.hpp
+cstdlib
+-
+iostream
+-
+vector
+-
+
+/Users/user/Desktop/UIUC/naive-numbers-danniely/libbayes/src/model.cpp
+image.hpp
+/Users/user/Desktop/UIUC/naive-numbers-danniely/libbayes/src/image.hpp
+model.hpp
+/Users/user/Desktop/UIUC/naive-numbers-danniely/libbayes/src/model.hpp
+iostream
+-
+fstream
+-
+vector
+-
+sstream
+-
+map
+-
+cmath
+-
+
+/Users/user/Desktop/UIUC/naive-numbers-danniely/libbayes/src/model.hpp
+image.hpp
+/Users/user/Desktop/UIUC/naive-numbers-danniely/libbayes/src/image.hpp
+map
+-
+fstream
+-
+

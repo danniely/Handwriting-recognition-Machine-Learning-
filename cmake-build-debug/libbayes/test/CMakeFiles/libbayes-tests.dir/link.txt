@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/libbayes-tests.dir/main.cpp.o CMakeFiles/libbayes-tests.dir/test_naiveBayes.cpp.o  -o libbayes-tests ../src/liblibbayes.a 

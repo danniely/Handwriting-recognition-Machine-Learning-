@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc liblibbayes.a  CMakeFiles/libbayes.dir/image.cpp.o CMakeFiles/libbayes.dir/model.cpp.o CMakeFiles/libbayes.dir/validation.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib liblibbayes.a
