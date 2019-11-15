@@ -18,4 +18,5 @@ Below is the dataset of shaded characters counts of class '0'.\
 <img width="651" alt="Screen Shot 2019-11-15 at 11 20 19 AM" src="https://user-images.githubusercontent.com/37637823/68962373-047ed380-079a-11ea-9c60-360777847f24.png">
 
 ## Part 2. Testing images
-With trainedData.txt file extracted from the part 1, posterior probabilty was calculated for each test images, then classified that specific test image using Naive Bayes classifier.
+With trainedData.txt file extracted from the part 1, posterior probabilty was calculated for each test images, then classified that specific test image using Naive Bayes classifier.\
+<img width="466" alt="Screen Shot 2019-11-15 at 11 33 02 AM" src="https://user-images.githubusercontent.com/37637823/68963117-d13d4400-079b-11ea-99a3-0e51d8b48a12.png">
