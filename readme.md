@@ -20,3 +20,22 @@ Below is the dataset of shaded characters counts of class '0'.\
 ## Part 2. Testing images
 With trainedData.txt file extracted from the part 1, posterior probabilty was calculated for each test images, then classified that specific test image using Naive Bayes classifier.\
 <img width="466" alt="Screen Shot 2019-11-15 at 11 33 02 AM" src="https://user-images.githubusercontent.com/37637823/68963117-d13d4400-079b-11ea-99a3-0e51d8b48a12.png">
+
+After the calculation of posterior probability of each class, pick the class with the highest probability, because that is what the classifier expects the hand written image to be, with the highest probability.
+For example, assuming some unknown image was given,\
+<img width="278" alt="Screen Shot 2019-11-15 at 11 35 50 AM" src="https://user-images.githubusercontent.com/37637823/68963246-1e211a80-079c-11ea-8b60-c488aece6e28.png">
+
+we can expect this number to be 8, since the class '8' has the highest probability.
+
+## Conclusion
+After matching the expected values with their actual values, accuracy was calculated as below.\
+Class 0: 75%\
+Class 1: 68%\
+Class 2: 83%\
+Class 3: 87%\
+Class 4: 77%\
+Class 5: 79%\
+Class 6: 85%\
+Class 7: 84%\
+Class 8: 82%\
+Class 9: 88%
