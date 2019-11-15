@@ -6,4 +6,12 @@ Naive Bayes classifiers are a family of probabilistic classifiers that are based
 
 
 ## Part 1. Training images
-We set a single hand written image size as 28x28 pixcels. Below is one of the hand written images used to train the model. 
+We set a single hand written image size as 28x28 pixels. Below is one of the hand written images used to train the model.\
+<img width="359" alt="Screen Shot 2019-11-13 at 4 02 35 AM" src="https://user-images.githubusercontent.com/37637823/68753493-c2536780-05ca-11ea-8f50-061ca2a10b51.png">
+
+For the simplicity, types of characters are categorized as below.\
+blank space: 0\
+#: 1\
++: 1\
+After going through every single pixels in a 28x28 image, the number of characters in pixels were counted and stored into a 2d vector of the class '8'. This same procedure was repeated with all the other remaining images.
+Below is the 
